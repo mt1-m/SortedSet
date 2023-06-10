@@ -1,6 +1,7 @@
 # SortedSet
 
-平衡 $\Theta(\sqrt N)$ 分木の SortedSet です。PyPy で動きます。平衡二分木系より速いと思います。
+平衡 $\Theta(\sqrt N)$ 分木の SortedSet です。PyPy で動きます。平衡二分木系より速いと思います。  
+これは、mt1によって追加された文です。
 
 [SortedSet](SortedSet.py)  
 [SortedMultiset](SortedMultiset.py)  
